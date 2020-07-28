@@ -21,7 +21,7 @@
             }
 
             .full-height {
-                height: 100vh;
+                height: 75vh;
             }
 
             .flex-center {
@@ -88,5 +88,8 @@
 
             </div>
         </div>
-    </body>
+
+
+@extends('layouts.foot')
+</body>
 </html>
