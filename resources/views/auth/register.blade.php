@@ -2,11 +2,7 @@
 <!doctype html>
 <html>
 <head>
-
-
      <title>Register</title>
-
-
 </head>
 @section('content')
 <div class="container" >
